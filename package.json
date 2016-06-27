@@ -1,0 +1,25 @@
+{
+  "name": "chidori",
+  "version": "0.0.1",
+  "description": "Twitter clinet made of Electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/localdisk/chidori.git"
+  },
+  "author": "@localdisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/localdisk/chidori/issues"
+  },
+  "homepage": "https://github.com/localdisk/chidori#readme",
+  "devDependencies": {
+    "typescript": "^1.8.10"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^1.2.5"
+  }
+}
